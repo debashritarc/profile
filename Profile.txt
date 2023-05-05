@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Profile</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<h2>Profile</h2>
+<ol>
+<li><b>Name</b>: Debashrita Roy chowdhury</li>
+<li><b>Github URL</b>: https://github.com/debashritarc</li>
+<li><b>Linked URL</b>: https://www.linkedin.com/in/debashrita-roy-chowdhury-11268253/</li>
+<li><b>Experience </b>: 6 years experience as Web Content Developer at IIT Mandi</li>
+<li><b>Projects</b>: Internship project</li>
+<li><b>Education</b>: M.Sc</li>
+<li><b>Certifications if any</b>: PG Full Stack in Web Development</li>
+<li><b>Hobbies</b>: Photography, dancing, poetry writing, travelling</li>
+
+</ol>
+
+</head>
+</body>
+</html>
